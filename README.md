@@ -2,4 +2,4 @@
 e ainda marcando quais já foram feitas e quais ainda nao foram executadas, ainda podendo excluilas a qualquer momento.
 Quando marca a terefa como executada ela muda de cor, e fica marcada com um traço na tarefa. A marcando como executada.
 Esse um programa para estudo que criei apenas para treinar meus conhecimeos em html e css e js.
-Logo logo tem mais atualizaçoes no app.
+
